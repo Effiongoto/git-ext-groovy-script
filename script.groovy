@@ -2,7 +2,7 @@ def buildApp(){
     echo 'building the application'
 }
 
-def TestApp(){
+def testApp(){
     echo 'Running JUnit test'
 }
 
